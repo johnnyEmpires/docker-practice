@@ -81,3 +81,7 @@ C:\projects\python\docker-practice>docker run sample-python-app
 2021-03-27 10:13:32,835 5018    INFO    sample app in docker terminated.
 
 ```
+
+## Notes
+* when using python `input` function, `EOFError` will be raised.
+* use `-i` for interactive mode to prevent this error from appearing.
