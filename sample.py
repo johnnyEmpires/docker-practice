@@ -1,0 +1,1 @@
+print("App running within docker")
